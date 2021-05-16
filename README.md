@@ -3,7 +3,7 @@ Página realizada en Wordpress para la asignatura Sistemas de Gestión de Conten
 
 ## Despliegue
 Descargue el proyecto dentro de ``` .../xampp/htdocs/ ``` en su equipo, descomprímalo e importe la base de datos de nuestra página
-[rentacar_bd.sql](https://github.com/jcss9/rentacar/rentacar_bd.sql) con ayuda del administrador de MySQL.
+[rentacar_bd.sql](https://github.com/jcss9/rentacar/blob/main/rentacar_bd.sql) con ayuda del administrador de MySQL.
 
 Será necesario crear un usuario con permisos en MySQL con nombre y contraseña "rentacar".
 
